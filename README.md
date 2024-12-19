@@ -5,7 +5,7 @@ This project showcases my learning journey in:
 - **Machine Learning**: Applying models(Support Vector Machine,Decision Tree,Random Forest, KNN,Logistic Regression,..) to solve regression and classification tasks.
 - **Deep Learning**: Exploring optimization algorithms to improve model performance.
 
-## Applications:
+## 📲Applications:
 1. **Stock Prediction**:
    - Using RNN , FFNN and (Support Vector Machine, Linear Regression,Random Forest,Decision Tree)  to predict stock prices.
 2. **Voice Activity Detection (VAD)**:
@@ -67,5 +67,5 @@ This project is developed in collaboration with:
 - **Lê Hải Đăng**
 
 
-## 🤝 Contributing
+## ❓ Contributing
 - Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
